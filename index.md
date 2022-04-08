@@ -2,7 +2,7 @@
 
 ### About me
 My name is **KJ** and I am currently a *freshman* at ***UC San Diego***.    
-This is one of the web that I made [FarmaPlus](https://farmaplus.kemkes.go.id).
+This is my github account [kresnajenie](https://github.com/kresnajenie).
 
 ### Hobbies
 Some things I like to do:
