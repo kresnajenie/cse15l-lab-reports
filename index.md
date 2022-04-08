@@ -22,6 +22,7 @@ I also learned how to do things on the command line with these commands:
 > cat
 > touch
 > mkdir
-> ```
+> ```  
+We also setup an ssh keygen to get to the server without having to input out password.
 ***
 
