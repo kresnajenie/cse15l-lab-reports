@@ -2,7 +2,7 @@
 ### 1. Installing VSCode
 ![VSCode](images/vscode.png)
 This is my visual studio code after I installed it.  
-VSCode is used as a text editor for programming.
+[VSCode](https://code.visualstudio.com/download) is used as a text editor for programming.
 
 ### 2. Remotely Connecting
 ![ssh](images/ssh.png)

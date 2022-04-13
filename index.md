@@ -1,7 +1,8 @@
 # CSE15 Lab
 
 ### Lab Reports
-- [Lab 1 Report Week 2](https://kresnajenie.github.io/cse15l-lab-reports/lab-report-1-week-2)
+- [Lab 1 Report Week 2](https://kresnajenie.github.io/cse15l-lab-reports/lab-report-1-week-2)  
+
 ### About me
 My name is **KJ** and I am currently a *freshman* at ***UC San Diego***.    
 This is my github account [kresnajenie](https://github.com/kresnajenie).
