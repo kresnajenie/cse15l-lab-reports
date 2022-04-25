@@ -22,6 +22,8 @@ Relationship: Since the links were not formatted correctly (there were no []), i
 
 ![Change 3](images/change3.png)
 
+### Third Code Change
+
 Error file: [error-no-paren.md](https://github.com/kresnajenie/markdown-parser/blob/main/error-no-paren.md)
 
 Symptom: The program will crash 
