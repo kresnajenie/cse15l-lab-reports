@@ -5,6 +5,7 @@
 - [Lab 2 Report Week 4](https://kresnajenie.github.io/cse15l-lab-reports/lab-report-2-week-4)  
 - [Lab 3 Report Week 6](https://kresnajenie.github.io/cse15l-lab-reports/lab-report-3-week-6)  
 - [Lab 4 Report Week 8](https://kresnajenie.github.io/cse15l-lab-reports/lab-report-4-week-8)  
+- [Lab 5 Report Week 9](https://kresnajenie.github.io/cse15l-lab-reports/lab-report-5-week-9)  
 
 ### About me
 My name is **KJ** and I am currently a *freshman* at ***UC San Diego***.    
